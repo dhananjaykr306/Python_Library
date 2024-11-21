@@ -1,0 +1,2 @@
+1. Create categorical series in pandas
+2. Create categorical DataFrame in pandas

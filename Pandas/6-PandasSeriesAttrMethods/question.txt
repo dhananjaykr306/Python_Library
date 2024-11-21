@@ -1,0 +1,9 @@
+1. Pandas dtype attribute
+2. Pandas ndim attribute  Dimension
+3. Pandas size attributes
+4. Pandas name attribute
+5. hasnans attribute
+6. Pandas index attributes
+7. Pandas head() method
+8. Pandas tail() method
+9. pandas info() method

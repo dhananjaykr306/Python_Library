@@ -1,0 +1,5 @@
+1. create a pandas Series
+2. access the value from pandas series
+3. dtype 
+4. Name
+5. copy

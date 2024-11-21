@@ -1,0 +1,2 @@
+1. Select multiple column to from DataFrame
+2. Select multiple columns in a range with pandas

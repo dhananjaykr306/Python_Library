@@ -1,0 +1,1 @@
+1. sort the pandas DataFrame(default ascending order) df.sort_values(by = [parameters  p1,p2,p3])

@@ -1,0 +1,2 @@
+1. Drop a column from a DataFrame
+2.Drop a row from a DataFrame using drop
