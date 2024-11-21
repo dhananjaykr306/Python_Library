@@ -1,0 +1,2 @@
+1. add a new column using the insert() (set at location)
+2. assign a new column using the assign() (place at end)
