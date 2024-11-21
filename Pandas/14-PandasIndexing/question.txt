@@ -1,0 +1,3 @@
+1. indexing in Pandas using the loc operator
+2. indexing in Pandas using the iloc operator
+3. Retrive last 3 rows of a DataFrame using iloc operator
