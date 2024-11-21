@@ -1,0 +1,3 @@
+iterate over row using iterrows()
+iterate over row using itertuples()
+iterate over row abd column using item()
