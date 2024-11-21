@@ -1,0 +1,8 @@
+ 1. Dtype attribute
+ 2. ndim attribute
+ 3. Size attribute
+ 4. shape attribute
+ 5. index attribute
+ 6. Transpose attributes (T)
+ 7. Head method
+ 8. Tail method
